@@ -1,5 +1,7 @@
 # mastercoin_front
 
+![alt text](https://github.com/LordKai182/prova_mastercoin_front/blob/master/pagina1.png)
+
 ## Project setup
 ```
 npm install
