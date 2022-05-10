@@ -19,27 +19,35 @@ BACK -
 
 para iniciar o back pelo proprio visual studio ou ide de sua escolha, restaure os pacotes NUGUET, sete o projeto na pasta presentaton como padrão
 o projeto foi feito en entity framework core o banco de dados usado foi o POSTGRES voce somente precisa alterar  a senha do usuari opostgres para a que voce usa, no consele de gerenciador de pacotes executar o comando "Add-Migration" ele ira te pedir um nome caso nao de certo apague a pasta "migrations" que se encontra no projeto infra da pasta 2-Infra as configurações de conexao de banco de dados esta no arquivo "MasterCoinContext" no projeto infra.
+as validações que estao no front tambem se encontram no back para maior segurança foram feitos com padroes de projeto de entidades não anemicas.
+
+PS: Muito obrigado pela Oportunidade espero que este agrade a vocês.
 
 
 segue imagens do comentado.
 
 1- formulario de cadastro de Usuario
+OBS: todas as Validações de nome de usuario, data de aniversario, email, senha e nome completo estão neste formulario
+
 ![alt text](https://github.com/LordKai182/prova_mastercoin_front/blob/master/pagina1.png)
 
 
-1- formulario de cadastro de Usuario
+1- Conversor DOLLAR em REAL
 ![alt text](https://github.com/LordKai182/prova_mastercoin_front/blob/master/pagina2.png)
 
 
-1- formulario de cadastro de Usuario
+1- Digitação de nome e Palindromo
 ![alt text](https://github.com/LordKai182/prova_mastercoin_front/blob/master/pagina3.png)
 
 
-1- formulario de cadastro de Usuario
+1- Visão do Projeto de Back e arquivo de configuração
+
+OBS: para iniciar o back com o swagger de colocar o projeto que se encontra na pasta presentation como padrão.
 ![alt text](https://github.com/LordKai182/prova_mastercoin_front/blob/master/pagina4.png)
 
 
-1- formulario de cadastro de Usuario
+1- Visão do arquivo de testes do back com alguns testes ja escritos.
+as validações que se encontram no front tambem estão no back pra uma segurança maior das regras
 ![alt text](https://github.com/LordKai182/prova_mastercoin_front/blob/master/pagina5.png)
 
 
