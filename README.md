@@ -27,6 +27,22 @@ segue imagens do comentado.
 ![alt text](https://github.com/LordKai182/prova_mastercoin_front/blob/master/pagina1.png)
 
 
+1- formulario de cadastro de Usuario
+![alt text](https://github.com/LordKai182/prova_mastercoin_front/blob/master/pagina2.png)
+
+
+1- formulario de cadastro de Usuario
+![alt text](https://github.com/LordKai182/prova_mastercoin_front/blob/master/pagina3.png)
+
+
+1- formulario de cadastro de Usuario
+![alt text](https://github.com/LordKai182/prova_mastercoin_front/blob/master/pagina4.png)
+
+
+1- formulario de cadastro de Usuario
+![alt text](https://github.com/LordKai182/prova_mastercoin_front/blob/master/pagina5.png)
+
+
 
 ## Project setup
 ```
